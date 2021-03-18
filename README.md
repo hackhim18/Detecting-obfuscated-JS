@@ -1,1 +1,1 @@
-# demo-App
+# Detecting obfuscated JavaScript
